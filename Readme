@@ -6,7 +6,7 @@ FILE Description :
 1.testscript.sh is a scipt in which all tasks are clubbed together.
 
 FILE COPY POSITION :
-    Copt the file testscript.sh in yout local system. check for the execute permission of the file
+    Copt the file testscript.sh in yout local system. check for the execute permission for the file
 
 EXECUTION :
 Step 1: cd to directory in which the file copied Step 2: Execute command as described below Step 3: ./testscript.sh
